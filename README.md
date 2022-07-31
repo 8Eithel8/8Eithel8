@@ -24,7 +24,7 @@
 ## Мой стек
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,sass,js,ps,figma,ai,vscode,webpack,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,sass,js,ps,figma,ai,vscode,webpack,react,node" />
   </a>
 </div>
 
